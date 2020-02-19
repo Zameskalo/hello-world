@@ -1,3 +1,4 @@
 # hello-world
 short description
-print "Zamir Cajamarca"
+
+Hello, I'm Zamir, I'm learning python.
